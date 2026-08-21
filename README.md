@@ -33,7 +33,7 @@ A structured learning roadmap documenting my progress toward AI/ML engineering a
 **August 14 – September 6, 2026**
 
 - [x] Python / OOP refresher
-- [ ] NumPy fundamentals
+- [x] NumPy fundamentals
 - [ ] Pandas fundamentals
 - [ ] Probability fundamentals
 - [ ] Random variables and probability distributions
@@ -44,7 +44,7 @@ A structured learning roadmap documenting my progress toward AI/ML engineering a
 
 ### Current Focus
 
-**Next:** NumPy fundamentals
+**Next:** Pandas fundamentals
 
 ## Progress
 
