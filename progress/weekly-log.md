@@ -104,26 +104,32 @@ Most of the project was completed from memory. Notes were mainly needed for sele
 * Jupyter notebooks can retain hidden state, so restarting the kernel and running all cells is important before publishing a project.
 * Reproducible random generation is useful when sharing data-analysis notebooks.
 
+## Progress Update — September 6, 2026
+
+### Completed
+
+* [x] Completed the Kaggle pandas course and its exercises
+* [x] Created a combined notebook with concept notes and exercise solutions
+* [x] Organized that notebook into `learning_pandas.ipynb` and `pandas_exercises.ipynb`
+* [x] Updated the roadmap to include practical GPU training and PEFT/LoRA
+
+### Pandas Topics Practiced
+
+* DataFrames, Series, CSV reading, and CSV export
+* Label-based and positional selection, Boolean filtering, and assignment
+* Summary functions, mapping, and row-wise transformations
+* Grouping, aggregation, multi-indexes, and sorting
+* Data types, missing values, renaming, concatenation, and joins
+
+### Next Tasks
+* [ ] Review probability rules, independence, and conditional probability
+* [ ] Study random variables and common probability distributions
+* [ ] Practice expectation and variance with NumPy simulations
+* [ ] Study ML evaluation metrics and basic statistical inference
+* [ ] Complete the independent Phase 1 pandas analysis project
+
 ### Current Phase
 
 Phase 1 — Data & Probability Foundations
 
-### Next Tasks
-
-* [ ] Begin Pandas fundamentals
-* [ ] Practice DataFrame creation, indexing, and filtering
-* [ ] Practice missing-value handling
-* [ ] Practice grouping and aggregation
-* [ ] Build a small Pandas analysis exercise
-* [ ] Begin probability fundamentals
-* [ ] Review probability rules and conditional probability
-* [ ] Study common probability distributions
-* [ ] Connect probability concepts to ML evaluation and uncertainty
-
-### Notes
-
-Completed both the OOP and NumPy checkpoints without relying heavily on internet or AI assistance.
-
-The NumPy fundamentals project served as a practical test of retention after completing the notes.
-
-Next focus: Pandas and probability.
+Next focus: Probability fundamentals.
