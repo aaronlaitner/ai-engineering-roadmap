@@ -34,7 +34,7 @@ A structured learning roadmap documenting my progress toward AI/ML engineering a
 
 - [x] Python / OOP refresher
 - [x] NumPy fundamentals
-- [ ] Pandas fundamentals
+- [x] Pandas fundamentals
 - [ ] Probability fundamentals
 - [ ] Random variables and probability distributions
 - [ ] Expectation and variance
