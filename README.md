@@ -17,7 +17,7 @@ A structured learning roadmap documenting my progress toward AI/ML engineering a
 
 ## Roadmap
 
-Dates are provisional targets, revised September 6 after completing Kaggle pandas. The core track now extends into February 2027. 
+Dates are provisional targets and are adjusted based on learning depth and project completion. Phase 1 extended slightly beyond its original September 20 target to allow a more thorough probability and statistics review. The core track currently extends into February 2027.
 
 | Phase | Timeline | Focus |
 |---|---|---|
@@ -32,27 +32,32 @@ Dates are provisional targets, revised September 6 after completing Kaggle panda
 ## Current Phase
 
 ### Phase 1 — Data & Probability Foundations
-**August 14 – September 20, 2026 (revised target)**
+**August 14 – late September 2026**
 
 - [x] Python / OOP refresher
 - [x] NumPy fundamentals
 - [x] Pandas fundamentals
-- [ ] Probability fundamentals
-- [ ] Random variables and probability distributions
-- [ ] Expectation and variance
+- [x] Probability fundamentals
+- [x] Random variables and probability distributions
+- [x] Expectation, variance, and standard deviation
+- [x] Normal distributions and z-scores
+- [x] Sampling distributions and standard error
+- [x] Confidence intervals and statistical inference fundamentals
+- [x] Hypothesis testing, p-values, Type I/II errors, and statistical power
+- [x] Covariance and correlation
 - [ ] ML evaluation metrics
-- [ ] Statistical inference fundamentals
-- [ ] Phase 1 end-to-end project
+- [ ] Phase 1 end-to-end analysis project
 
 ### Current Focus
 
-**Next:** Probability fundamentals, starting with probability rules and conditional probability.
+**Next:** ML evaluation metrics and completion of the Phase 1 analysis project.
 
-1. Review probability rules, independence, and conditional probability.
-2. Study random variables, common distributions, expectation, and variance using small NumPy simulations.
-3. Connect these ideas to train/validation/test splits and ML evaluation metrics.
-4. Introduce sampling, confidence intervals, and statistical inference; continue practicing in later phases.
-5. Complete a small independent pandas analysis project with cleaning, summaries, and clearly explained findings.
+1. Learn classification evaluation metrics including confusion matrices, accuracy, precision, recall, specificity, F1, ROC-AUC, and PR-AUC.
+2. Understand when accuracy is misleading, especially for imbalanced datasets.
+3. Connect probability/statistics concepts to model evaluation and train/validation/test workflows.
+4. Complete an independent pandas analysis project using data cleaning, filtering, grouping, aggregation, visualization, and clearly explained findings.
+5. Review and publish the completed Phase 1 notebooks and project to GitHub.
+6. Begin Phase 2 with machine learning fundamentals and PyTorch.
 
 ## Progress
 See [`progress/weekly-log.md`](progress/weekly-log.md) for detailed weekly updates.
