@@ -128,8 +128,67 @@ Most of the project was completed from memory. Notes were mainly needed for sele
 * [ ] Study ML evaluation metrics and basic statistical inference
 * [ ] Complete the independent Phase 1 pandas analysis project
 
+## Progress Update — September 24, 2026
+
+### Completed
+
+* [x] Reviewed core probability rules
+* [x] Practiced complements, unions, intersections, conditional probability, and independence
+* [x] Reviewed random variables
+* [x] Learned Bernoulli and Binomial distributions
+* [x] Practiced expected value, variance, and standard deviation
+* [x] Practiced manual variance and standard deviation calculations
+* [x] Studied Normal distributions and the 68–95–99.7 rule
+* [x] Practiced z-scores
+* [x] Studied sampling distributions
+* [x] Learned standard error and its relationship to sample size
+* [x] Reviewed the Law of Large Numbers and Central Limit Theorem
+* [x] Learned confidence intervals and critical values
+* [x] Studied null and alternative hypotheses
+* [x] Learned p-values and one-sided vs. two-sided hypothesis tests
+* [x] Studied Type I and Type II errors
+* [x] Learned statistical power
+* [x] Reviewed covariance and correlation
+* [x] Completed a closed-notes statistics self-test
+* [x] Completed the Phase 1 probability/statistics mini-lab
+* [x] Created a consolidated probability/statistics Colab notebook
+
+### Probability & Statistics Checkpoint
+
+Completed the Phase 1 probability/statistics review covering:
+
+* Probability rules
+* Conditional probability
+* Independence
+* Random variables
+* Bernoulli and Binomial distributions
+* Expected value
+* Variance and standard deviation
+* Normal distributions
+* z-scores
+* Sampling distributions
+* Standard error
+* Law of Large Numbers
+* Central Limit Theorem
+* Confidence intervals
+* Hypothesis testing
+* p-values
+* Type I and Type II errors
+* Statistical power
+* Covariance and correlation
+### Current Phase
+
+### Next Tasks
+
+* [ ] Study ML evaluation metrics
+* [ ] Practice confusion matrices, precision, recall, F1, specificity, ROC-AUC, and PR-AUC
+* [ ] Connect statistical concepts to train/validation/test evaluation
+* [ ] Complete the independent Phase 1 pandas analysis project
+* [ ] Clean up and publish Phase 1 notebooks to GitHub
+* [ ] Complete Phase 1 and begin Phase 2: ML fundamentals and PyTorch
+
 ### Current Phase
 
 Phase 1 — Data & Probability Foundations
 
-Next focus: Probability fundamentals.
+Next focus: ML evaluation metrics and the Phase 1 analysis project.
