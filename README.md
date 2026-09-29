@@ -51,13 +51,10 @@ Dates are provisional targets and are adjusted based on learning depth and proje
 ### Current Focus
 
 **Next:** ML evaluation metrics and completion of the Phase 1 analysis project.
-
-1. Learn classification evaluation metrics including confusion matrices, accuracy, precision, recall, specificity, F1, ROC-AUC, and PR-AUC.
-2. Understand when accuracy is misleading, especially for imbalanced datasets.
-3. Connect probability/statistics concepts to model evaluation and train/validation/test workflows.
-4. Complete an independent pandas analysis project using data cleaning, filtering, grouping, aggregation, visualization, and clearly explained findings.
-5. Review and publish the completed Phase 1 notebooks and project to GitHub.
-6. Begin Phase 2 with machine learning fundamentals and PyTorch.
+1. Connect probability/statistics concepts to model evaluation and train/validation/test workflows.
+2. Complete an independent pandas analysis project using data cleaning, filtering, grouping, aggregation, visualization, and clearly explained findings.
+3. Review and publish the completed Phase 1 notebooks and project to GitHub.
+4. Begin Phase 2 with machine learning fundamentals and PyTorch.
 
 ## Progress
 See [`progress/weekly-log.md`](progress/weekly-log.md) for detailed weekly updates.
