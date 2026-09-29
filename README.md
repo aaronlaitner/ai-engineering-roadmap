@@ -45,7 +45,7 @@ Dates are provisional targets and are adjusted based on learning depth and proje
 - [x] Confidence intervals and statistical inference fundamentals
 - [x] Hypothesis testing, p-values, Type I/II errors, and statistical power
 - [x] Covariance and correlation
-- [ ] ML evaluation metrics
+- [x] ML evaluation metrics
 - [ ] Phase 1 end-to-end analysis project
 
 ### Current Focus
