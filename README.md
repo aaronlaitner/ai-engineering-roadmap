@@ -51,10 +51,9 @@ Dates are provisional targets and are adjusted based on learning depth and proje
 ### Current Focus
 
 **Next:** ML evaluation metrics and completion of the Phase 1 analysis project.
-1. Connect probability/statistics concepts to model evaluation and train/validation/test workflows.
-2. Complete an independent pandas analysis project using data cleaning, filtering, grouping, aggregation, visualization, and clearly explained findings.
-3. Review and publish the completed Phase 1 notebooks and project to GitHub.
-4. Begin Phase 2 with machine learning fundamentals and PyTorch.
+1. Complete an independent pandas analysis project using data cleaning, filtering, grouping, aggregation, visualization, and clearly explained findings.
+2. Review and publish the completed Phase 1 notebooks and project to GitHub.
+3. Begin Phase 2 with machine learning fundamentals and PyTorch.
 
 ## Progress
 See [`progress/weekly-log.md`](progress/weekly-log.md) for detailed weekly updates.
