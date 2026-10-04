@@ -8,10 +8,12 @@ A structured learning roadmap documenting my progress toward AI/ML engineering a
 - Learn NumPy and Pandas
 - Build practical probability and statistics knowledge
 - Develop proficiency with PyTorch and practical CUDA-based GPU training
-- Strengthen machine learning fundamentals
+- Strengthen machine learning and deep learning fundamentals
 - Build portfolio-quality AI projects
 - Learn AI deployment, cloud, and MLOps workflows
-- Develop modern AI engineering skills including LLMs, RAG, and PEFT with LoRA/QLoRA
+- Develop modern LLM engineering skills including Transformers, embeddings, RAG, and PEFT with LoRA/QLoRA
+- Develop agentic AI engineering skills including tool use, planning, memory, verification, self-correction, and agent evaluation
+- Study modern agent research through Stanford CS329A: Self-Improving AI Agents
 - Prepare for AI/ML engineering and research opportunities
 - Earn the Microsoft Azure AI Cloud Developer Associate certification
 
@@ -22,10 +24,10 @@ Dates are provisional targets and are adjusted based on learning depth and proje
 | Phase | Timeline | Focus |
 |---|---|---|
 | Phase 0 | August 2026 | Baseline diagnostics and roadmap setup — completed |
-| Phase 1 | Aug 14 – Sep 20, 2026 | Python, NumPy, pandas, probability/statistics, and a small analysis project |
-| Phase 2 | Sep 21 – Oct 18, 2026 | ML fundamentals, PyTorch, deep learning, practical CUDA use |
-| Phase 3 | Oct 19 – Nov 15, 2026 | Production ML, deployment, Docker, testing, experiment tracking, MLOps |
-| Phase 4 | Nov 16 – Dec 27, 2026 | Transformers, embeddings, RAG, evaluated LoRA/QLoRA fine-tuning |
+| Phase 1 | Aug 14 – Sep 20, 2026 | Python, NumPy, pandas, probability/statistics, ML evaluation, and a small analysis project |
+| Phase 2 | Sep 21 – Oct 18, 2026 | ML fundamentals, PyTorch, deep learning, and practical CUDA use |
+| Phase 3 | Oct 19 – Nov 15, 2026 | Production ML, deployment, Docker, testing, experiment tracking, and MLOps |
+| Phase 4 | Nov 16 – Dec 27, 2026 | LLM and agentic AI engineering: Transformers, embeddings, RAG, LoRA/QLoRA, Stanford CS329A, tool-using agents, and agent evaluation |
 | Phase 5 | Dec 28, 2026 – Jan 24, 2027 | Azure AI engineering and Microsoft Learn training |
 | Phase 6 | Jan 25 – Feb 14, 2027 | AI-200 readiness, portfolio refinement, and job preparation |
 
@@ -50,10 +52,12 @@ Dates are provisional targets and are adjusted based on learning depth and proje
 
 ### Current Focus
 
-**Next:** ML evaluation metrics and completion of the Phase 1 analysis project.
+**Next:** Complete and publish the Phase 1 analysis project, then begin Phase 2.
+
 1. Complete an independent pandas analysis project using data cleaning, filtering, grouping, aggregation, visualization, and clearly explained findings.
-2. Review and publish the completed Phase 1 notebooks and project to GitHub.
+2. Review, clean up, and publish the completed Phase 1 notebooks and analysis project to GitHub.
 3. Begin Phase 2 with machine learning fundamentals and PyTorch.
 
 ## Progress
+
 See [`progress/weekly-log.md`](progress/weekly-log.md) for detailed weekly updates.
